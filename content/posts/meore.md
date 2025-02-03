@@ -8,9 +8,9 @@ draft = false
 
 Gagimarjos
 
-- erti
-- ori 
-- sami
+* erti
+* ori 
+* sami
 
 - [x] Ki
 - [ ] Ara
