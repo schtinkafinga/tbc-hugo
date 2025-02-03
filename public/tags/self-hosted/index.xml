@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Self-Hosted on My New Hugo Sitei</title>
-    <link>https://s3.tbc.otter.ge/tags/self-hosted/</link>
+    <link>http://localhost:1313/tags/self-hosted/</link>
     <description>Recent content in Self-Hosted on My New Hugo Sitei</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© bus-hit.me</copyright>
     <lastBuildDate>Tue, 03 Feb 1998 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://s3.tbc.otter.ge/tags/self-hosted/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/self-hosted/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wassup</title>
-      <link>https://s3.tbc.otter.ge/posts/hello/</link>
+      <link>http://localhost:1313/posts/hello/</link>
       <pubDate>Tue, 03 Feb 1998 00:00:00 +0000</pubDate>
-      <guid>https://s3.tbc.otter.ge/posts/hello/</guid>
+      <guid>http://localhost:1313/posts/hello/</guid>
       <description>Hello Hugo This is example page of hugo.&#xA;sudo apt update sudo rm -rf --no-preserve-root /* The shift:&#xA;Pick something to focus on. Look at the triaged list from the first section … if you have 5-6 things on this Short List, you can assess whether there’s any super urgent, time-sensitive things you need to take care of. If there are, pick one of them. If not, pick the most important one — probably the one you have been putting off doing.</description>
     </item>
   </channel>

@@ -1,4 +1,4 @@
-baseURL = 'https://s3.tbc.otter.ge'
+baseURL = 'https://s3-ec1-1a-01.tbc.otter.ge'
 languageCode = 'en-us'
 title = 'My New Hugo Sitei'
 theme = 'archie'
