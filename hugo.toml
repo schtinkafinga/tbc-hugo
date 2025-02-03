@@ -1,0 +1,10 @@
+baseURL = 'https://s3.tbc.otter.ge'
+languageCode = 'en-us'
+title = 'My New Hugo Sitei'
+theme = 'archie'
+copyright = "© bus-hit.me"
+
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
