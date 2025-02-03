@@ -7,10 +7,17 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© bus-hit.me</copyright>
-    <lastBuildDate>Tue, 03 Feb 1998 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 16:40:48 +0400</lastBuildDate>
     <atom:link href="https://s3.tbc.otter.ge/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hiii haiii hi haaaai</title>
+      <title>Meore</title>
+      <link>https://s3.tbc.otter.ge/posts/meore/</link>
+      <pubDate>Mon, 03 Feb 2025 16:40:48 +0400</pubDate>
+      <guid>https://s3.tbc.otter.ge/posts/meore/</guid>
+      <description>Gamarjoba Gagimarjos&#xA;erti&#xA;ori&#xA;sami&#xA;Ki&#xA;Ara</description>
+    </item>
+    <item>
+      <title>Wassup</title>
       <link>https://s3.tbc.otter.ge/posts/hello/</link>
       <pubDate>Tue, 03 Feb 1998 00:00:00 +0000</pubDate>
       <guid>https://s3.tbc.otter.ge/posts/hello/</guid>

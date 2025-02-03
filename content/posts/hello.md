@@ -1,8 +1,8 @@
 ---
-title: Hiii haiii hi haaaai
+title: Wassup 
 description: Heai
 date: 1998-02-03
-tldr: h.i
+tldr: Cogito ergo sum
 draft: false
 tags: [self-hosted, good] 
 ---

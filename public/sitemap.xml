@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://s3.tbc.otter.ge/tags/good/</loc>
-    <lastmod>1998-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://s3.tbc.otter.ge/posts/hello/</loc>
-    <lastmod>1998-02-03T00:00:00+00:00</lastmod>
+    <loc>https://s3.tbc.otter.ge/posts/meore/</loc>
+    <lastmod>2025-02-03T16:40:48+04:00</lastmod>
   </url><url>
     <loc>https://s3.tbc.otter.ge/</loc>
-    <lastmod>1998-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-03T16:40:48+04:00</lastmod>
   </url><url>
     <loc>https://s3.tbc.otter.ge/posts/</loc>
+    <lastmod>2025-02-03T16:40:48+04:00</lastmod>
+  </url><url>
+    <loc>https://s3.tbc.otter.ge/tags/good/</loc>
     <lastmod>1998-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://s3.tbc.otter.ge/tags/self-hosted/</loc>
     <lastmod>1998-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://s3.tbc.otter.ge/tags/</loc>
+    <lastmod>1998-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://s3.tbc.otter.ge/posts/hello/</loc>
     <lastmod>1998-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://s3.tbc.otter.ge/categories/</loc>
