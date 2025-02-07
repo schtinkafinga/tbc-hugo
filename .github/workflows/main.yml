@@ -60,7 +60,7 @@ jobs:
 
   # Deployment job
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: homelab
     needs: build
     steps:
       - name: Download artifacts (Docker images) from previous workflows
