@@ -63,6 +63,9 @@ jobs:
     runs-on: homelab
     needs: build
     steps:
+      - name: Install prequisite package
+        run: |
+          sudo snap install aws-cli --classic
       - name: Download artifacts (Docker images) from previous workflows
         uses: actions/download-artifact@v4
         with:
