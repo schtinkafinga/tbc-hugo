@@ -1,6 +1,6 @@
-baseURL = 'https://www.s3-ec1-1a-01.tbc.otter.ge'
+baseURL = 'https://s3.ted.devops-ninja.me'
 languageCode = 'en-us'
-title = 'TBC | S3 Hugo'
+title = 'AWS S3'
 theme = 'archie'
 copyright = "© bus-hit.me"
 uglyURLs = true 
