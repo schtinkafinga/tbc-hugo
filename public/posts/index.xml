@@ -7,20 +7,20 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© bus-hit.me</copyright>
-    <lastBuildDate>Mon, 03 Feb 2025 16:40:48 +0400</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 1998 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Meore</title>
-      <link>http://localhost:1313/posts/meore.html</link>
-      <pubDate>Mon, 03 Feb 2025 16:40:48 +0400</pubDate>
-      <guid>http://localhost:1313/posts/meore.html</guid>
-      <description>Gamarjoba Gagimarjos&#xA;erti ori sami Ki Ara </description>
+      <title>Second Page</title>
+      <link>http://localhost:1313/posts/second.html</link>
+      <pubDate>Tue, 10 Feb 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/second.html</guid>
+      <description>&#xA;Gamarjoba Gagimarjos&#xA;erti ori sami Ki Ara </description>
     </item>
     <item>
-      <title>Wassup</title>
-      <link>http://localhost:1313/posts/hello.html</link>
+      <title>First Page</title>
+      <link>http://localhost:1313/posts/first.html</link>
       <pubDate>Tue, 03 Feb 1998 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hello.html</guid>
+      <guid>http://localhost:1313/posts/first.html</guid>
       <description>Hello Hugo This is example page of hugo.&#xA;sudo apt update sudo rm -rf --no-preserve-root /* The shift:&#xA;Pick something to focus on. Look at the triaged list from the first section … if you have 5-6 things on this Short List, you can assess whether there’s any super urgent, time-sensitive things you need to take care of. If there are, pick one of them. If not, pick the most important one — probably the one you have been putting off doing.</description>
     </item>
   </channel>

@@ -1,7 +1,7 @@
 baseURL = 'https://s3.ted.devops-ninja.me'
 languageCode = 'en-us'
 title = 'AWS S3'
-theme = 'archie'
+theme = 'hugo-theme-archie'
 copyright = "© bus-hit.me"
 uglyURLs = true 
 

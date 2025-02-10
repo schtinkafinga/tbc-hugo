@@ -1,12 +1,12 @@
 ---
-title: Wassup 
-description: Heai
+title: First Page 
+description: This is first page
 date: 1998-02-03
 tldr: Cogito ergo sum
 draft: false
 tags: [self-hosted, good] 
 ---
-
+![hi](./first/images/01.jpg)
 ## Hello Hugo
 
 This is example page of hugo. 
