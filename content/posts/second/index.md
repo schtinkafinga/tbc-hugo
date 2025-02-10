@@ -1,6 +1,6 @@
 ---
 title: Second Page 
-description: This is first page
+description: This is second page
 date: 1998-02-10
 draft: false
 tags: [self-hosted, good] 
